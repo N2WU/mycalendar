@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:nolan.pearce@westpoint.edu
+X-WR-TIMEZONE:America/Denver
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20210519T140000
+DTEND;TZID=America/Denver:20210519T150000
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=WE
+EXDATE;TZID=America/Denver:20210519T140000
+DTSTAMP:20210524T195822Z
+ORGANIZER;CN=brwa6014@colorado.edu:mailto:brwa6014@colorado.edu
+UID:6hrd24c1imt2jfklpnbsrubrhk_R20210519T200000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ev
+ an.bauch@colorado.edu;X-NUM-GUESTS=0:mailto:evan.bauch@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=do
+ ha8548@colorado.edu;X-NUM-GUESTS=0:mailto:doha8548@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=brwa60
+ 14@colorado.edu;X-NUM-GUESTS=0:mailto:brwa6014@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=john.s
+ obtzak@colorado.edu;X-NUM-GUESTS=0:mailto:john.sobtzak@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lu
+ cas.perry@colorado.edu;X-NUM-GUESTS=0:mailto:lucas.perry@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=scott.
+ palo@colorado.edu;X-NUM-GUESTS=0:mailto:scott.palo@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=la
+ ra.lufkin@colorado.edu;X-NUM-GUESTS=0:mailto:lara.lufkin@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ lan.pearce@westpoint.edu;X-NUM-GUESTS=0:mailto:nolan.pearce@westpoint.edu
+CREATED:20210505T141709Z
+DESCRIPTION:Brodie Wallace is inviting you to a scheduled Zoom meeting.<br>
+ Topic: CU-E3 Summer 2021 Meetings<br>Time: This is a recurring meeting Meet
+  anytime<br>Join Zoom Meeting<br><a href="https://cuboulder.zoom.us/j/91168
+ 324672">https://cuboulder.zoom.us/j/91168324672</a><br>Meeting ID: 911 6832
+  4672<br>Passcode: 2018<br>One tap mobile<br>+16699006833\,\,91168324672# U
+ S (San Jose)<br>+12532158782\,\,91168324672# US (Tacoma)<br>Dial by your lo
+ cation<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;+1 669 90
+ 0 6833 US (San Jose)<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&n
+ bsp\;+1 253 215 8782 US (Tacoma)<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbs
+ p\;&nbsp\;&nbsp\;+1 346 248 7799 US (Houston)<br>&nbsp\;&nbsp\;&nbsp\;&nbsp
+ \;&nbsp\;&nbsp\;&nbsp\;&nbsp\;+1 646 558 8656 US (New York)<br>&nbsp\;&nbsp
+ \;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;+1 301 715 8592 US (Washington 
+ DC)<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;+1 312 626 6
+ 799 US (Chicago)<br>Meeting ID: 911 6832 4672<br>Find your local number: <a
+  href="https://cuboulder.zoom.us/u/akG1BQNLR">https://cuboulder.zoom.us/u/a
+ kG1BQNLR</a><br>Join by SIP<br><a href="mailto:91168324672@zoomcrc.com">911
+ 68324672@zoomcrc.com</a><br>Join by H.323<br>162.255.37.11 (US West)<br>162
+ .255.36.11 (US East)<br>115.114.131.7 (India Mumbai)<br>115.114.115.7 (Indi
+ a Hyderabad)<br>213.19.144.110 (Amsterdam Netherlands)<br>213.244.140.110 (
+ Germany)<br>103.122.166.55 (Australia Sydney)<br>103.122.167.55 (Australia 
+ Melbourne)<br>149.137.40.110 (Singapore)<br>64.211.144.160 (Brazil)<br>69.1
+ 74.57.160 (Canada Toronto)<br>65.39.152.160 (Canada Vancouver)<br>207.226.1
+ 32.110 (Japan Tokyo)<br>149.137.24.110 (Japan Osaka)<br>Meeting ID: 911 683
+ 2 4672<br>Passcode: 2018
+LAST-MODIFIED:20210514T114624Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CU-E3 Summer Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210524T190000Z
+DTEND:20210524T193000Z
+DTSTAMP:20210524T195822Z
+ORGANIZER;CN=MAXWELL Cubesat Team:mailto:colorado.edu_7hqgocu1c8vslsckrhbb2
+ k4upo@group.calendar.google.com
+UID:A9913C7D-C92A-4064-9C72-9288B160D115+ZOOMMEETINGNUMBER:95459955432
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=MAXWEL
+ L Cubesat Team;X-NUM-GUESTS=0:mailto:colorado.edu_7hqgocu1c8vslsckrhbb2k4up
+ o@group.calendar.google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;CN=Anast
+ asia Muszynski;X-NUM-GUESTS=0:mailto:anastasia.muszynski@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=baro01
+ 56@colorado.edu;X-NUM-GUESTS=0:mailto:baro0156@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ fr5637@colorado.edu;X-NUM-GUESTS=0:mailto:chfr5637@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ fi7790@colorado.edu;X-NUM-GUESTS=0:mailto:dafi7790@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=dako68
+ 45@colorado.edu;X-NUM-GUESTS=0:mailto:dako6845@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Fe
+ rnando Enrique Chavez;X-NUM-GUESTS=0:mailto:fernando.chavezarroyo@colorado.
+ edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Matthe
+ w Zola;X-NUM-GUESTS=0:mailto:matthew.zola@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Mu
+ kta Darekar;X-NUM-GUESTS=0:mailto:mukta.darekar@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ni
+ gu8044@colorado.edu;X-NUM-GUESTS=0:mailto:nigu8044@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=omsh73
+ 93@colorado.edu;X-NUM-GUESTS=0:mailto:omsh7393@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Ruben 
+ Hinojosa Torres;X-NUM-GUESTS=0:mailto:ruben.hinojosatorres@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;CN=zoe.l
+ ee@colorado.edu;X-NUM-GUESTS=0:mailto:zoe.lee@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ni
+ cholas Rainville;X-NUM-GUESTS=0:mailto:nicholas.rainville@colorado.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ lan.pearce@westpoint.edu;X-NUM-GUESTS=0:mailto:nolan.pearce@westpoint.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Sc
+ ott E Palo;X-NUM-GUESTS=0:mailto:scott.palo@colorado.edu
+CREATED:20210521T211009Z
+DESCRIPTION:Robert Redfern is inviting you to a scheduled Zoom meeting.\n\n
+ Topic: MAXWELL - Quad Charts \nTime: This is a recurring meeting Meet anyti
+ me\n\nJoin Zoom Meeting\nhttps://cuboulder.zoom.us/j/95459955432\n\nMeeting
+  ID: 954 5995 5432\nOne tap mobile\n+12532158782\,\,95459955432# US (Tacoma
+ )\n+13462487799\,\,95459955432# US (Houston)\n\nDial by your location\n    
+     +1 253 215 8782 US (Tacoma)\n        +1 346 248 7799 US (Houston)\n    
+     +1 669 900 6833 US (San Jose)\n        +1 301 715 8592 US (Washington D
+ C)\n        +1 312 626 6799 US (Chicago)\n        +1 646 558 8656 US (New Y
+ ork)\nMeeting ID: 954 5995 5432\nFind your local number: https://cuboulder.
+ zoom.us/u/abPyywJ4za\n\nJoin by SIP\n95459955432@zoomcrc.com\n\nJoin by H.3
+ 23\n162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India 
+ Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherl
+ ands)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.12
+ 2.167.55 (Australia Melbourne)\n149.137.40.110 (Singapore)\n64.211.144.160 
+ (Brazil)\n69.174.57.160 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\
+ n207.226.132.110 (Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID: 9
+ 54 5995 5432\n\n
+LAST-MODIFIED:20210524T011749Z
+LOCATION:https://cuboulder.zoom.us/j/95459955432
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MAXWELL - Quad Charts 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
